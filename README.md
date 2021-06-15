@@ -1,5 +1,5 @@
 # IBM MQ Spring JMS samples
-
+test
 ## Running the samples
 To start the application, navigate to the `Spring-JMS` directory and run
 
